@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Toasts project
 
 This project was created to show some React skills and save usefull code.
 
